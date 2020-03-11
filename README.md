@@ -16,3 +16,7 @@ In diesem Repository haben wir dazu einige Informationen zusammengestellt:
 - [Lizenzempfehlungen](OSS_Lizenzen_Empfehlungen.pdf)
 - [Einen Lizenzkompatibilitätscheck](Kompatibilitätscheck.pdf)
 - [Den Lizenzkompatibilitätscheck in Kurzform als Tabelle](Kompatibilitätscheck.pdf)
+
+Die Dokumente sind unter CC-BY-4.0 lizensiert. Weitere Informationen zu dieser Lizenz
+findet man bei [Creative Commons](https://creativecommons.org/licenses/by/4.0/deed.de)
+in verschiedenen Sprachen oder auf Englisch in der [license.txt](license.txt).
