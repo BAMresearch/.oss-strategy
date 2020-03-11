@@ -11,11 +11,10 @@ In diesem Repository haben wir dazu einige Informationen zusammengestellt:
 
 - [Eine Erklärung der Begriffe FOSS und OSS](Erklärung_OSS.pdf)
 - [FAQ zum Thema Open-Source-Software](FAQ_OSS.pdf)
-- [Eine Erklärung des Copyleft-Effektes](FAQ_OSS.pdf)
+- [Eine Erklärung des Copyleft-Effektes](Copyleft_Effekt.pdf)
 - [Eine Übersicht der Lizenzbedingen beliebter OSS-Lizenzen](Lizenzen_beliebtesten_OSS.pdf)
-- [Lizenzempfehlungen](OSS_Lizenzen_Empfehlungen.pdf)
-- [Einen Lizenzkompatibilitätscheck](Kompatibilitätscheck.pdf)
-- [Den Lizenzkompatibilitätscheck in Kurzform als Tabelle](Kompatibilitätscheck.pdf)
+- [Lizenzempfehlungen der BAM](OSS_Lizenzen_Empfehlungen.pdf)
+- [Einen Lizenzkompatibilitätscheck in Kurzform als Tabelle](Kompatibilitätscheck.pdf)
 
 Die Dokumente sind unter CC-BY-4.0 lizensiert. Weitere Informationen zu dieser Lizenz
 findet man bei [Creative Commons](https://creativecommons.org/licenses/by/4.0/deed.de)
